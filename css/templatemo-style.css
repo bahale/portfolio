@@ -281,13 +281,14 @@ header .social-icon li a
 		-webkit-transition: all 0.4s ease-in-out;
 		        transition: all 0.4s ease-in-out;
 		position: relative;
-		opacity: .5;
+		opacity: .9;
 	}
 #team .team-wrapper:hover
 	{
 		cursor: pointer;
 		opacity: 1;
 		bottom: 4px;
+		
 	}
 #team .team-wrapper .team-des
 	{
